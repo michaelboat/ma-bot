@@ -1,3 +1,4 @@
+# add more quotes later
 QUOTES = [
     "You have power over your mind, not outside events. Realize this, and you will find strength.",
     "The happiness of your life depends upon the quality of your thoughts.",
